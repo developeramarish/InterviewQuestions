@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<style type="text/css">
+	.log {
+		font-size: 10pt;
+		font-family: 'Consolas';
+		table-layout:fixed;
+		word-wrap:break-word;
+	}
+	.header {
+		background-color:#808080;
+		color:#FFFFFF;
+	}
+	.debug { color:#707070; }
+	.info { color:Black; }
+	.error { color:Red; font-weight:bold; }
+	.warn { color:#B08040; }
+	.tr0 { background-color: rgb(224, 224, 224); }
+	.tr1 { background-color: rgb(240, 240, 240); }
+	</style>
+</head>
+<body>
+	<div>
+		<table class="log" cellspacing="2" width="100%">
+			<tbody>
+				<tr class="header">
+					<th width="180">Time</th>
+					<th width="60">Level</th>
+					<th width="100">Tag</th>
+					<th>Content</th>
+				</tr>
+				<tr class="debug tr0">
+					<td>‎2017‎年‎2‎月‎16‎日‎ ‎15‎:‎53‎:‎19</td>
+					<td>Debug</td>
+					<td>SERVICE</td>
+					<td>start</td>
+				</tr>
+				<tr class="info tr1">
+					<td>‎2017‎年‎2‎月‎16日‎ ‎17‎:‎47‎:‎01</td>
+					<td>Info</td>
+					<td>NETWORK</td>
+					<td>connecting...</td>
+				</tr>
+				<tr class="error tr0">
+					<td>‎2017‎年‎2‎月‎16‎日‎ ‎18‎:‎26‎:‎28</td>
+					<td>Error</td>
+					<td>NETWORK</td>
+					<td>connect failed. error:<br>
+remote service refused.</td>
+				</tr>
+				<tr class="debug tr1">
+					<td>‎2017‎年‎2‎月‎16‎日‎ ‎18‎:‎26‎:‎28</td>
+					<td>Debug</td>
+					<td></td>
+					<td>exit.</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</body>
+</html>

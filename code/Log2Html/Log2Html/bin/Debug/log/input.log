@@ -1,0 +1,5 @@
+﻿[Debug.SERVICE 2017‎-‎2‎-‎16 ‎15‎:‎53‎:‎19] start
+[Info.NETWORK ‎2017‎-‎2‎-‎16 ‎17‎:‎47‎:‎01] connecting...
+[Error.NETWORK ‎2017‎-‎2‎-‎16‎‎ ‎18‎:‎26‎:‎28] connect failed. error: 
+remote service refused.
+[Debug ‎2017‎-‎2‎-‎16‎‎ ‎18‎:‎26‎:‎28] exit.

@@ -1,0 +1,14 @@
+C:\Users\qix\Desktop\Log2Html\Log2Html\bin\Debug\Log2Html.exe
+C:\Users\qix\Desktop\Log2Html\Log2Html\bin\Debug\Log2Html.exe.config
+C:\Users\qix\Desktop\Log2Html\Log2Html\obj\Debug\Log2Html.csproj.CoreCompileInputs.cache
+C:\Users\qix\Desktop\Log2Html\Log2Html\obj\Debug\Log2Html.exe
+C:\Users\qix\Desktop\Log2Html\Log2Html\obj\Debug\Log2Html.pdb
+C:\Users\qix\Desktop\Log2Html\Log2Html\bin\Debug\Log2Html.pdb
+C:\Users\qix\Desktop\Log2Html\Log2Html\obj\Debug\Log2Html.csprojResolveAssemblyReference.cache
+C:\Users\qix\Desktop\Log2Html2\Log2Html\bin\Debug\Log2Html.exe.config
+C:\Users\qix\Desktop\Log2Html2\Log2Html\bin\Debug\Log2Html.exe
+C:\Users\qix\Desktop\Log2Html2\Log2Html\bin\Debug\Log2Html.pdb
+C:\Users\qix\Desktop\Log2Html2\Log2Html\obj\Debug\Log2Html.csprojResolveAssemblyReference.cache
+C:\Users\qix\Desktop\Log2Html2\Log2Html\obj\Debug\Log2Html.csproj.CoreCompileInputs.cache
+C:\Users\qix\Desktop\Log2Html2\Log2Html\obj\Debug\Log2Html.exe
+C:\Users\qix\Desktop\Log2Html2\Log2Html\obj\Debug\Log2Html.pdb
